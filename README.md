@@ -15,4 +15,3 @@ This project aims to predict whether a user will click on an advertisement on a 
 - **data/**: Contains the raw and processed datasets used for training and testing the model.
 - **models/**: Stores the trained logistic regression model.
 - **notebooks/**: Includes Jupyter notebooks for exploratory data analysis and feature selection.
-- **src/**: Contains the scripts for data preprocessing, feature engineering, model training, and evaluation.
